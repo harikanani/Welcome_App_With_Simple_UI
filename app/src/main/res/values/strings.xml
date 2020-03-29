@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeloApp</string>
+    <string name="mytext">Welcome!</string>
+    <string name="subyext">Nice to see you again!</string>
+    <string name="button">Login</string>
+    <string name="not_member" >You are not a member?</string>
+    <string name="reg">Register</string>
+</resources>
